@@ -23,7 +23,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Solution](https://github.com/discipula99/Four-card-feature-section)
-- Live Site URL: [GitHub Pages]
+- Live Site URL: [GitHub Pages](https://discipula99.github.io/Four-card-feature-section/)
 
 ## My process
 
